@@ -1,6 +1,6 @@
 ---
 title: "PS270 Final Project"
-author: "Your Name Here"
+author: "Soeren J. Henn"
 description: "My final project"
 output:
   distill::distill_article:
@@ -10,5 +10,5 @@ output:
 
 
 ## Project thoughts
-
+Maybe I look at data on dogs.
 I am interested in exploring data related to...
